@@ -1,6 +1,6 @@
 <h1 align="center">Hello! My name is Kirill 👋</h1>
 <h3 align="center">I'm Python backend developer 🐍</h3>
-<h3 align="center">Moscow</h3>
+<h3 align="center">Saint Petersburg</h3>
 
 ___
 
