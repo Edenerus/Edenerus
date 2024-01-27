@@ -27,6 +27,12 @@ ___
   <a href="https://www.django-rest-framework.org">
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/)">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.3.x/">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  </a>
   <a href="https://www.postgresql.org/docs/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
@@ -73,5 +79,3 @@ ___
     <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
 </div>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
